@@ -1,5 +1,5 @@
 ---
-name: Financial Literacy in K-12: A Pilot Program
+name: Financial Literacy Policy Proposal
 tools: [research, analysis, communication, education policy]
 image: 
 description: For the Truman Scholarship, I developed a policy proposal focused on creating a pilot program for financial literacy. As a result of my scholarship application, I was chosen as Oregon State University's campus nominee.
