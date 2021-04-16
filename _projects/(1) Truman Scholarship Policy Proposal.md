@@ -3,7 +3,7 @@ name: Truman Scholarship Policy Proposal
 tools: [research, analysis, communication, education policy]
 image: 
 description: For the Truman Scholarship, I developed a policy proposal focused on creating a pilot program for financial literacy. As a result of my scholarship application, I was chosen as Oregon State University's campus nominee.
-external_url: https://docs.google.com/document/d/1MtlAkUD6i7IFPNoy_WfO1cny5Uf8oDmO90qk9CUWyP0/edit?usp=sharing
+external_url: 
 ---
 
 
@@ -18,5 +18,5 @@ The Truman Scholarship is a nationally competitive scholarship for aspiring publ
 ![search](https://www.sketchappsources.com/resources/source-image/microsoft-windows-10-virtual-keyboard-diogo-sousa.png)
 
 <p class="text-center">
-{% include elements/button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="View as PDF" %}
+{% include elements/button.html link="https://docs.google.com/document/d/1MtlAkUD6i7IFPNoy_WfO1cny5Uf8oDmO90qk9CUWyP0/edit?usp=sharing" text="View as PDF" %}
 </p>
