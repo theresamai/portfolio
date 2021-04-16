@@ -6,7 +6,7 @@ description         : >-
                       focused on uplifting social mobility.
 baseurl             : "/portfolio"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : theresamai/portfolio     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : YoussefRaafatNasry/portfolYOU
+remote_theme        : theresamai/portfolYOU
 
 
 ### Plugins ###
