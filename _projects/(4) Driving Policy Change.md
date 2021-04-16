@@ -1,5 +1,5 @@
 ---
-name: Driving Policy Change: An Intern's Experience
+name: Driving Policy Change
 tools: [blog writing]
 image:
 description: To conclude my internship at Forth, I published an article recapping my experience and how authentic partnerships can make an impact in policy.
