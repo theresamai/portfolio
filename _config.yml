@@ -20,7 +20,6 @@ nav_exclude:                                            # The following paths ar
   - pages/404.html
   - pages/index.md
   - pages/about.md
-  - pages/blog.html
 
 
 ### Author Info ###
