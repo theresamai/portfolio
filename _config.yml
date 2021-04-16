@@ -2,9 +2,8 @@
 title               : Theresa Mai
 description         : >-
                       Hello! My name is Theresa Mai. :wave:
-                      I am a student,
-                      researcher, and policy wonk
-                      focused on uplifting social mobility.
+                      I am a student, researcher, and policy wonk passionate about uplifting social mobility.
+                      On the side, I love to listen to podcasts, play +4's on my friends, and convince my partner to adopt a dog ASAP.
 baseurl             : "/portfolio"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : theresamai/portfolio     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -30,13 +29,13 @@ author:
   image             : https://i.imgur.com/rfkMVFF.jpeg
 # behance           : your_username
 # dribbble          : your_username
-  email             : theresathimai@gmail.com
+# email             : theresathimai@gmail.com
 # facebook          : your_username
-  github            : theresamai
+# github            : theresamai
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : theresamai
+# linkedin          : theresamai
 # medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
