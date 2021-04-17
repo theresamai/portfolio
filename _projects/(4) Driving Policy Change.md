@@ -8,14 +8,7 @@ external_url:
 
 # Driving Policy Change
 
-Text.
-
-
 ![forth](https://i.imgur.com/x90UjUJ.jpg)
-
-
-Text.
-
 
 <p class="text-center">
 
