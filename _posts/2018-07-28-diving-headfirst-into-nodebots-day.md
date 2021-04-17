@@ -7,8 +7,6 @@ comments: true
 description: Learning how to navigate tech on the fly.
 ---
 
-## Diving Headfirst into NodeBots Day
-
 Hackathons are known for pushing people to their limits. They require interdisciplinary teams to craft a product within a short timeframe. Usually, people come to these events with some form of idea of what they're going to do or with some beneficial knowledge like programming or product design.   
 
 Because of my love for robotics, I decided to go to my first hackathon event, NodeBots Day. NodeBots Day is a hackathon where people come together to manipulate the physical world with Javascript. Here, I decided to do something that scared me initially: I dived headfirst without any prior knowledge in Javascript.  Because of my introductory programming classes, I have experience programming in C++ and C with Visual Studio and PuTTY, yet it doesn't make up for the fact that I didn't know a bit of Javascript. Nonetheless, I decided to go to participate in this event to become a better problem solver and adapter.  
