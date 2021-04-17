@@ -3,9 +3,9 @@
  title: Now
  permalink: /now/
  weight: 2
- ---
+---
  
- # What I'm Focused On Now
+# What I'm Focused On Now
 Credit: Derek Silvers
 
 ## Personally
