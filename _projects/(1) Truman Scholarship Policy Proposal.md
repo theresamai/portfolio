@@ -37,14 +37,24 @@ Another challenge is that a personal finance mandate will divert focus from core
 ### References, Footnotes, and Exhibits
 
 Ali, S., Abdi, E., Alvarez, A., Cetz, J., Didway, G., Ernst, A., Goncharuk, D., Fuhrer, A., Johnson, S., Kaliszewski, G., Moreno, R., Paesler, N., Preusser, D., Smiley, D., & Wright, C. (2018, March 6). *State of our schools: Examining Oregon’s high schools through students’ eyes.* Oregon Student Voice. https://c423ac8a-ff49-4a98-9c13-9d772d3c32ae.filesusr.com/ugd/bf5b79_e927d0df5e1648ecb2b4648ae5844efc.pdf
+
 DHM Research. (2019, August 14). *Oregonians’ Education Prioritization.* https://www.dhmresearch.com/oregonians-education-prioritization/
+
 FINRA Investor Education Foundation. (n.d.). *Summary of selected findings: Oregon.* Retrieved December 17, 2020, from https://www.usfinancialcapability.org/downloads/tables/Oregon_2018.pdf
+
 Nielsen, S. (2009, September 27). *Cutting personal finance classes: Another mistake from a richer era.* The Oregonian. https://www.oregonlive.com/news/oregonian/susan_nielsen/2009/09/cutting_personal_finance_class.html
+
 Organisation for Economic Cooperation and Development. (2020, May 7). *PISA 2018 results (volume IV): Are students smart about money?* https://www.oecd-ilibrary.org/education/pisa-2018-results-volume-iv_48ebd1ba-en;jsessionid=CzBH2C4rgVEbLruukZGAUeFg.ip-10-240-5-95
+
 Rosenbaum, E. (2020, February 5). *How each US state is shaping the personal finance IQ of its students.* CNBC. https://www.cnbc.com/2020/02/05/how-each-us-state-is-shaping-the-personal-finance-iq-of-students.html
+
 Ruffenach, C., & Worcel, S. (2017, November). *Toward a thriving future: Closing the opportunity gap for Oregon’s kids.* Oregon Community Foundation. https://oregoncf.org/assets/PDFs-and-Docs/PDFs/top-2017-online.pdf
+
 Urban, C., Schmeiser, M., Collins, J. M., & Brown, A. (2018). The effects of high school personal financial education policies on financial behavior. *Economics of Education Review, 78*. https://doi.org/10.1016/j.econedurev.2018.03.006
 
+
 <p class="text-center">
-{% include elements/button.html link="https://docs.google.com/document/d/1MtlAkUD6i7IFPNoy_WfO1cny5Uf8oDmO90qk9CUWyP0/edit?usp=sharing" text="View as PDF" %}
+
+<a class="btn btn-outline-primary" href="https://docs.google.com/document/d/1MtlAkUD6i7IFPNoy_WfO1cny5Uf8oDmO90qk9CUWyP0/edit?usp=sharing" target="_blank" role="button">View More</a> 
+  
 </p>
