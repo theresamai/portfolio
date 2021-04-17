@@ -8,7 +8,7 @@ external_url:
 
 # Basic Needs Navigator Testimony
 
-![pantry](https://experience.oregonstate.edu/sites/experience.oregonstate.edu/files/feature-story/dsc_2857.jpg)
+![pantry](https://i.imgur.com/CivCKuI.png)
 
 
 Text.
@@ -18,6 +18,6 @@ Text.
 
 <a class="btn btn-outline-primary" href="https://olis.oregonlegislature.gov/liz/2021R1/Downloads/PublicTestimonyDocument/3276" target="_blank" role="button">View My Written Testimony</a> 
 
-<a class="btn btn-outline-primary" href="https://olis.oregonlegislature.gov/liz/2021R1/Downloads/PublicTestimonyDocument/3276" target="_blank" role="button">View My Oral Testimony</a> 
+<a class="btn btn-outline-primary" href="https://drive.google.com/file/d/1K9AtDdroVadzbMnhKY-mBiP1aG0z9pxR/view?usp=sharing" target="_blank" role="button">View My Oral Testimony</a> 
   
 </p>
