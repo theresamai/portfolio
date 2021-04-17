@@ -1,7 +1,7 @@
 ---
 name: Financial Literacy House Bill
 tools: [policy development, research, stakeholder analysis, advocacy]
-image: https://i.imgur.com/kxyZrca.png
+image: https://i.imgur.com/IdkMZVK.jpg
 description: As a Willamette Valley Legislative Fellow, I led the education policy group in developing a financial literacy policy concept, which resulted in our idea becoming an Oregon house bill during the 2021 session.
 external_url: 
 ---
