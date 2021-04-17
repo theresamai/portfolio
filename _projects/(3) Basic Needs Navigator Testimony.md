@@ -10,10 +10,6 @@ external_url:
 
 ![fruits](https://i.imgur.com/CivCKuI.png)
 
-
-Text.
-
-
 <p class="text-center">
 
 <a class="btn btn-outline-primary" href="https://olis.oregonlegislature.gov/liz/2021R1/Downloads/PublicTestimonyDocument/3276" target="_blank" role="button">View My Written Testimony</a> 
