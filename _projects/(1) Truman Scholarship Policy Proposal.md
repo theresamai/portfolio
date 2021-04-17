@@ -11,12 +11,15 @@ external_url:
 
 The Truman Scholarship is a nationally competitive scholarship for aspiring public servants. As part of the application, a policy proposal was required, and because of my passion for education policy, I decided to focus on financial literacy as a graduation requirement in Oregon high schools. Due to the pandemic, I decided to create a pilot program to ensure rollout is simple, efficent, and impactful. Fortunately, I was then selected to be Oregon State University's campus nominee for the Truman Scholarship.
 
+
 ![instagram](https://i.imgur.com/VZL4QQb.png)
 
 ## The Policy Proposal
 
 To: Representative Teresa Alonso León
+
 Office Held: Oregon State Representative - Chair of House Interim Committee On Education
+
 Issue: Financial Literacy in K-12
 
 ### Problem Statement
