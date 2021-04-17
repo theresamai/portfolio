@@ -2,13 +2,13 @@
 name: Basic Needs Navigator Testimony
 tools: [research, communication, writing, storytelling]
 image: https://i.imgur.com/CivCKuI.png
-description: As a student at Oregon State University, I understood the impact our Basic Needs Navigator makes on our education, and I wanted to ensure that this service is available to all students. Knowing this, I decided to testify in support of HB 2835 in front of the House Education Committee.
+description: Being a rising senior, I understand the prevalence of food and housing insecurity among the college population, and I decided to testify in support of HB 2835 in order to address this crisis.
 external_url: 
 ---
 
 # Basic Needs Navigator Testimony
 
-![pantry](https://i.imgur.com/CivCKuI.png)
+![fruits](https://i.imgur.com/CivCKuI.png)
 
 
 Text.
