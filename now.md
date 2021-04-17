@@ -8,6 +8,8 @@
 # What I'm Focused On Now
 <p>Credit: <a href="https://nownownow.com/about" target="_blank">Derek Sivers</a></p>
 
+![Theresa on a bridge](https://i.imgur.com/FoSuC4U.jpg)
+
 ## Personally
 I am living in Corvallis, Oregon, enjoying the sun! 
 Yet, because of the pandemic, I am finding lots of time to focus on myself, so 
