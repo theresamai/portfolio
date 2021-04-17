@@ -8,11 +8,7 @@ external_url:
 
 # Basic Needs Navigator Testimony
 
-
-Text.
-
-
-![instagram](https://experience.oregonstate.edu/sites/experience.oregonstate.edu/files/feature-story/dsc_2857.jpg)
+![pantry](https://experience.oregonstate.edu/sites/experience.oregonstate.edu/files/feature-story/dsc_2857.jpg)
 
 
 Text.
