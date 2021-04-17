@@ -6,7 +6,7 @@
 ---
  
 # What I'm Focused On Now
-Credit: Derek Silvers
+Credit: [Derek Sivers](https://nownownow.com/about)
 
 ## Personally
 I am living in Corvallis, Oregon, enjoying the sun! 
