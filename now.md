@@ -6,8 +6,7 @@
 ---
  
 # What I'm Focused On Now
-Credit: [Derek Sivers](https://nownownow.com/about)
-<p>Credit: <a href="https://nownownow.com/about" target="_blank">Derek Sivers</a>
+<p>Credit: <a href="https://nownownow.com/about" target="_blank">Derek Sivers</a></p>
 
 ## Personally
 I am living in Corvallis, Oregon, enjoying the sun! 
