@@ -1,6 +1,6 @@
 ---
  layout: default
- title: Page Name
+ title: Now
  permalink: /now/
  weight: 2
  ---
