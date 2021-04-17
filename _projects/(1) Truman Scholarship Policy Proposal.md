@@ -1,7 +1,7 @@
 ---
 name: Truman Scholarship Policy Proposal
 tools: [research, analysis, communication, education policy]
-image: https://i.imgur.com/VZL4QQb.png
+image: https://i.imgur.com/XXaXScm.png
 description: For the Truman Scholarship, I developed a policy proposal focused on creating a pilot program for financial literacy. As a result of my scholarship application, I was chosen as Oregon State University's campus nominee.
 external_url: 
 ---
