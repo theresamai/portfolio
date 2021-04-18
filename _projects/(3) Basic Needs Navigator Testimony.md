@@ -2,7 +2,7 @@
 name: Basic Needs Navigator Testimony
 tools: [research, communication, writing, storytelling]
 image: https://i.imgur.com/CivCKuI.png
-description: Being a rising senior, I understand the prevalence of food and housing insecurity among the college population, and I decided to testify in support of HB 2835 in order to address this crisis.
+description: Being a rising senior, I understand the prevalence of food and housing insecurity among the college population, and I decided to testify in support of HB 2835 in order to make this clear to state legislators.
 external_url: 
 ---
 
