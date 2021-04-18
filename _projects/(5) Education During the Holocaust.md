@@ -10,5 +10,7 @@ external_url:
 ![website](https://i.imgur.com/l5WEprj.png)
 
 <p class="text-center">
+
 <a class="btn btn-outline-primary" href="https://honors.oregonstate.edu/hc-407-holocaust-digital-age" target="_blank" role="button">View More</a> 
+  
 </p>
