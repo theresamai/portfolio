@@ -18,7 +18,7 @@ Since I have worked in schools for years, it made sense that I was a part of the
 
 </p>
 
-We then encountered another problem: What issue should we pick? After a long Zoom debate, our team decided on choosing a policy concept based on making an impact, not on its feasibility to pass in our fellowship. Knowing this, we chose financial literacy due to seeing our graduates lacking the skills they needed to succeed, especially during the onset of the pandemic.
+We then encountered another problem: What issue should we pick? After a long Zoom debate, our team decided on choosing a policy concept based on making an impact, not on its feasibility to pass in our fellowship. Knowing this, we chose financial literacy due to seeing our graduates lacking the skills they needed to succeed, especially during the pandemic.
 
 Soon, our team members started meeting key stakeholders, which included high school teachers, advocacy groups, and the Oregon Department of Education. By meeting with them all, we started noticing the dynamics within education policy, such as the understanding that when you *add* something, you need to *take away* something from the curriculum.
 
