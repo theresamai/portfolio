@@ -35,7 +35,7 @@ Finally, we focused on the last part of the fellowship, where we get to present 
 ![Zoom Group](https://i.imgur.com/kxyZrca.png)
 
 Luckily, our approach worked! Our policy concept was deemed the best out of the cohort, and it eventually became Oregon House Bill 3232. Although we almost had a public hearing on the bill, HB 3232 was among the many bills that died due to Republican delay tactics. <a href="https://www.opb.org/article/2021/04/02/opb-politics-now-oregon-washington-two-legislatures/" target="_blank" role="button">Here</a> 
-is an OPB podcast episode that expands on the situation of the Oregon State Legislature in comparison to Washington State's.
+is an OPB podcast episode that expands more on the situation within the Oregon State Legislature.
 
 
 <p class="text-center">
