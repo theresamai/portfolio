@@ -12,7 +12,11 @@ external_url:
 
 Since I have worked in schools for years, it made sense that I was a part of the fellowship's education policy group. Here, we were able to develop our own policy concept, yet this is where the struggles reside. Even though we were all students, we had drastically different policy ideas we were passionate about, such as international education, civics education, and college access. Even so, we were able to submit our proposed solutions, focusing on career and technical education, college access, life skills, and financial literacy.
 
+<p class="text-center">
+
 <a class="btn btn-outline-primary" href="https://drive.google.com/file/d/18eeGyLG5AHMkxXqgSOUq6LC0RRGzYdAc/view?usp=sharing" target="_blank" role="button">View Our Proposed Solutions</a> 
+
+</p>
 
 We then encountered another problem: What issue should we pick? After a long Zoom debate, our team decided on choosing a policy concept based on making an impact, not on its feasibility to pass in our fellowship. Knowing this, we chose financial literacy due to seeing our graduates lacking the skills they need to succeed, especially during the onset of the pandemic.
 
@@ -20,9 +24,13 @@ Soon, our team members started meeting key stakeholders, which included high sch
 
 Eventually, we developed a one-pager for our policy concept, where we explained our policy problem, our policy solution, its benefits, and its fiscal impact. Although it was not a one pager (it was two pages), we received great feedback from Jack Lehman, a staffer of Representative Rayfield. From him, we learned of the need to shortned our one pager while still leaving folks with the information they need about our policy concept. As a result, our team did our best in wordsmithing our one pager in addition to including key endorsements to show support for our policy. For fun, I also changed up the formatting of our one pager to look more clean.
 
+<p class="text-center">
+
 <a class="btn btn-outline-primary" href="https://drive.google.com/file/d/1dIOoio5a7rbZ5lr_7H823Mqv4-ZPYMyj/view?usp=sharing" target="_blank" role="button">View Our Draft</a> 
 
-Finallt, we get to focus on the last part of the fellowship, where we present our policy concept to a panel of state representatives. Here, our group collaborated on a presentation that seeks to use a narrative approach. More specifically, we had Caroline Gao start us off by explaining how Oregonians are not financially literate and what that means for high schoolers like her. We then shifted more towards our policy concept and how it can be a key benefit to our livelihoods.
+</p>
+
+Finally, we get to focus on the last part of the fellowship, where we present our policy concept to a panel of state representatives. Here, our group collaborated on a presentation that seeks to use a narrative approach. More specifically, we had Caroline Gao start us off by explaining how Oregonians are not financially literate and what that means for high schoolers like her. We then shifted more towards our policy concept and how it can be a key benefit to our livelihoods.
 
 ![Zoom Group](https://i.imgur.com/kxyZrca.png)
 
