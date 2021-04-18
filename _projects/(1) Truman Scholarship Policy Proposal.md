@@ -9,9 +9,9 @@ external_url:
 
 # Truman Scholarship
 
-The Truman is a nationally competitive scholarship for aspiring public servants. As part of the application, a policy proposal is required to see the applicant's commitment to their desired field. In my case, I've been always passionate about education policy, yet at the time, I did not know where to start. Intimidated, I decided to reach out to education policy expert Dr. Thompson. From this conversation, I realized that I am passionate about providing students the opportunities they needed to succeed, especially for those from historically underserved communities.
+The Truman is a nationally competitive scholarship for aspiring public servants. As part of the application, a policy proposal is required to evaluate the applicant's commitment to their desired field. In my case, I've been always passionate about education, yet I did not know where to start. Intimidated, I decided to reach out to education policy expert Dr. Thompson, which ended up becoming a great experience. 
 
-Eventually, I decided on making financial literacy a high school requirement, yet the pandemic made me shift towards creating a pilot program. After many rounds of feedback, I finally decided to submit my application, and I received the honor of becoming Oregon State University's Truman nominee!
+From this conversation, I realized that I am passionate about providing students the opportunities they needed to succeed, especially for those from historically underserved communities. Eventually, I decided on making financial literacy a high school requirement, yet the pandemic made me shift towards creating a pilot program. After many rounds of feedback, I finally decided to submit my application, and I received the honor of becoming Oregon State University's Truman nominee!
 
 ![instagram](https://i.imgur.com/VZL4QQb.png)
 
