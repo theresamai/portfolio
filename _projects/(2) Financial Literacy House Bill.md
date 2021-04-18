@@ -18,11 +18,11 @@ Since I have worked in schools for years, it made sense that I was a part of the
 
 </p>
 
-We then encountered another problem: What issue should we pick? After a long Zoom debate, our team decided on choosing a policy concept based on making an impact, not on its feasibility to pass in our fellowship. Knowing this, we chose financial literacy due to seeing our graduates lacking the skills they need to succeed, especially during the onset of the pandemic.
+We then encountered another problem: What issue should we pick? After a long Zoom debate, our team decided on choosing a policy concept based on making an impact, not on its feasibility to pass in our fellowship. Knowing this, we chose financial literacy due to seeing our graduates lacking the skills they needed to succeed, especially during the onset of the pandemic.
 
-Soon, our team members started meeting key stakeholders, which included high school teachers, advocacy groups, and the Oregon Department of Education. By meeting with them all, we started noticing the dynamics within education policy, such as the understanding that when you *add* something, you need to *take away* something from the curriculum. Another dynamic was an emphasis on giving teachers leeway, especially in what and how they teach. By not doing so, a mandate can seem like a breach of local control.
+Soon, our team members started meeting key stakeholders, which included high school teachers, advocacy groups, and the Oregon Department of Education. By meeting with them all, we started noticing the dynamics within education policy, such as the understanding that when you *add* something, you need to *take away* something from the curriculum.
 
-Eventually, we developed a one-pager for our policy concept, where we explained our policy problem, our policy solution, its benefits, and its fiscal impact. Although it was not a one pager (it was two pages), we received great feedback from Jack Lehman, a staffer of Representative Rayfield. From him, we learned of the need to shortned our one pager while still leaving folks with the information they need about our policy concept. As a result, our team did our best in wordsmithing our one pager in addition to including key endorsements to show support for our policy. For fun, I also changed up the formatting of our one pager to look more clean.
+Eventually, we developed a one pager for our policy concept, where we explained our policy problem, our policy solution, its benefits, and its fiscal impact. Although it was two pages, we received great feedback from Jack Lehman, a staffer of Representative Rayfield. From Jack, we learned of the need to shorten our one pager while still leaving folks with the key information they need. Understanding this, our team did our best in wordsmithing our one pager in addition to including key endorsements to show support for our policy. For fun, I also changed up the formatting of our one pager to look more clean.
 
 <p class="text-center">
 
@@ -30,11 +30,13 @@ Eventually, we developed a one-pager for our policy concept, where we explained 
 
 </p>
 
-Finally, we get to focus on the last part of the fellowship, where we present our policy concept to a panel of state representatives. Here, our group collaborated on a presentation that seeks to use a narrative approach. More specifically, we had Caroline Gao start us off by explaining how Oregonians are not financially literate and what that means for high schoolers like her. We then shifted more towards our policy concept and how it can be a key benefit to our livelihoods.
+Finally, we focused on the last part of the fellowship, where we get to present our policy concept to a panel of state representatives. Here, our group collaborated on a presentation that seeks to use a narrative approach. In our case, we had Caroline Gao start us off by explaining how Oregonians are not financially literate and what that means for high schoolers like her. We then shifted more towards our policy concept and how it can be implemented.
 
 ![Zoom Group](https://i.imgur.com/kxyZrca.png)
 
-Luckily, our approach worked! Our policy concept was deemed the best out of the cohort, and it eventually became Oregon House Bill 3232. Although we almost had a public hearing on the bill, HB 3232 was among the many that died during this legislative session due to Republican delay tactics.
+Luckily, our approach worked! Our policy concept was deemed the best out of the cohort, and it eventually became Oregon House Bill 3232. Although we almost had a public hearing on the bill, HB 3232 was among the many bills that died due to Republican delay tactics. <a href="https://www.opb.org/article/2021/04/02/opb-politics-now-oregon-washington-two-legislatures/" target="_blank" role="button">Here</a> 
+is an OPB podcast episode that expands on the situation of the Oregon State Legislature in comparison to Washington State's.
+
 
 <p class="text-center">
 
