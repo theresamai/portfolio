@@ -25,4 +25,4 @@ On the side, I am also developing a policy memo for a public official as an Oreg
 ## News
 * 4/16/2021: I am going to be a minutes contractor for the City of Corvallis! As a policy wonk, I am so excited to observe a local government in action, and I look forward to joining Corvallis' awesome team. :tada:
 * 3/15/2021: I am starting my legislative internship with State Representative Ricki Ruiz for this long session. Having worked with the representative and his staff on the campaign trail, I am excited about what this team will do! :muscle:
-* 2/13/2021: I am proud to say that I am *not* selected as a Truman Scholarship finalist!
+* 2/13/2021: I am proud to say that I am not selected as a Truman Scholarship finalist!
