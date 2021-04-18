@@ -8,7 +8,7 @@ external_url:
 
 # Financial Literacy House Bill
 
-https://i.imgur.com/IdkMZVK.jpg
+![Money](https://i.imgur.com/IdkMZVK.jpg)
 
 Since I have worked as a volunteer reader, academic coach, and a college access mentor, it made sense that I was a part of the Willamette Valley Legislative Fellowship's education policy group. Here, we were able to develop our own policy concept, yet this is where the struggles reside. Even though we were four students from local high schools and colleges, we had drastically different policy ideas we each were passionate about. For example, we have made a laundry list, which included financial support for international students, civics education for all, and college access resources. Even so, we had to pare down, so we submitted our proposed solutions focusing on college access, CTE, life skills, and financial literacy.
 
