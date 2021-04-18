@@ -10,7 +10,7 @@ external_url:
 
 ![Money](https://i.imgur.com/IdkMZVK.jpg)
 
-Since I have worked in schools for years, it made sense that I was a part of the fellowship's education policy group. Here, we were able to develop our own policy concept, yet this is where the struggles reside. Even though we were all students, we had drastically different policy ideas we were passionate about, such as international education, civics education, and college access. Even so, we were able to submit our proposed solutions, focusing on career and technical education, college access, life skills, and financial literacy.
+Since I have worked in schools for years, it made sense that I was a part of the fellowship's education policy group. Here, we were able to develop our own policy concept, yet this is where the struggles reside. Even though we were all students, we had drastically different ideas we were passionate about, such as international education, civics education, and college access. Even so, we were able to submit our proposed solutions, focusing on career and technical education, college access, life skills, and financial literacy.
 
 <p class="text-center">
 
