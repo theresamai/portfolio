@@ -15,7 +15,7 @@ I am living in Corvallis, Oregon, enjoying the sun!
 Yet, because of the pandemic, I am finding lots of time to focus on myself, so 
 I am trying to read more books, listen to more podcasts, and watch more movies.
 Currently, I am reading *What You Should Know About Politics ... But Don't*,
-and I am listening to Up First, OPB Politics, Freakonomics, and 538 Politics.
+and I am listening to *Up First*, *OPB Politics*, *Freakonomics*, and *538 Politics*.
 In addition to this, I am learning hip hop dance for the first time in years, and I am learning how to cook without causing chaos!
 
 ## Professionally
