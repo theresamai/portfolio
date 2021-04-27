@@ -6,7 +6,7 @@ description: For an application, I decided to write an essay on how aspects of F
 external_url: 
 ---
 
-# Mock Press Release
+# Honors College Essay
 
 ![Rogers](https://www.misterrogers.org/wp-content/uploads/2018/08/HisMessage_Intro2.jpg)
 
