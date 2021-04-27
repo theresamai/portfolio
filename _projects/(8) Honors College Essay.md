@@ -12,6 +12,6 @@ external_url:
 
 <p class="text-center">
 
-<a class="btn btn-outline-primary" href="https://drive.google.com/file/d/1pt53SfoZiWv63PTfjX3LR845I0ab9BKT/view?usp=sharing">View More</a> 
+<a class="btn btn-outline-primary" href="https://drive.google.com/file/d/1pt53SfoZiWv63PTfjX3LR845I0ab9BKT/view?usp=sharing" target="_blank" role="button">View More</a> 
   
 </p>
