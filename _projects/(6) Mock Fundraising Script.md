@@ -1,6 +1,6 @@
 ---
 name: Mock Fundraising Script
-tools: [writing, marketing]
+tools: [campaign]
 image: https://i.imgur.com/E98j9tP.png
 description: As part of the Willamette Valley Legislative Fellowship, I was tasked to develop a mock fundraising script for the Measure 107 campaign, which focuses on transparent and honest elections.
 external_url: 
