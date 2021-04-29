@@ -1,6 +1,6 @@
 ---
 name: Mock Press Release
-tools: [writing, marketing]
+tools: [communication]
 image: https://i.imgur.com/dEzRFwy.png
 description: As an assignment, I was tasked to develop a mock press release for the Willamette Valley Legislative Fellowship, particularly on the fellows work on the campaign trail and policy development.
 external_url: 
