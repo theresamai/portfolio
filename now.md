@@ -11,7 +11,7 @@
 ![Theresa on a bridge](https://i.imgur.com/FoSuC4U.jpg)
 
 ## Personally
-I am living in Corvallis, Oregon, enjoying the sun! 
+I am living in Portland, Oregon, enjoying the sun! 
 Yet, because of the pandemic, I am finding lots of time to focus on myself, so 
 I am trying to read more books, listen to more podcasts, and watch more movies.
 Currently, I am reading *What You Should Know About Politics ... But Don't*,
