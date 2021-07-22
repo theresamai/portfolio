@@ -2,7 +2,7 @@
 name: Financial Literacy House Bill
 tools: [policy]
 image: https://i.imgur.com/IdkMZVK.jpg
-description: As a Willamette Valley Legislative Fellow, I led the education policy group in developing a financial literacy policy concept, which resulted in our idea becoming HB 3232 during the 2021 session.
+description: As a Willamette Valley Legislative Fellow, I led the education group in developing a financial literacy policy concept, which resulted in HB 3232 during the 2021 session.
 external_url: 
 ---
 
