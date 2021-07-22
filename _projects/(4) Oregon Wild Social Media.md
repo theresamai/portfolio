@@ -2,7 +2,7 @@
 name: Social Media Management for Oregon Wild
 tools: [communication]
 image: https://i.imgur.com/KycdsSH.jpeg
-description: As a Wildlife Intern, one of my main responsibilities was to maintain a Facebook page for Oregon Wild, where I keep 16,000 followers in the loop on everything wildlife.
+description: As a Wildlife Intern, I maintained a Facebook page, where I kept 16,000 followers in the loop on everything wildlife.
 external_url: 
 ---
 
