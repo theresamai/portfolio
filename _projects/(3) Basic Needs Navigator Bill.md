@@ -40,4 +40,10 @@ As I worked on my policy memo, I also focused on making HB 2835 a reality. In th
   
 </p>
 
-My voice raised so much attention that the Oregon Hunger Task Force used my testimony in outreach to legislators, and I even got featured in a KLCC/NPR article!
+My voice raised so much attention that the Oregon Hunger Task Force used my testimony in outreach to legislators, and I even got featured in a KLCC/NPR article! 
+
+<p class="text-center">
+
+<a class="btn btn-outline-primary" href="https://www.klcc.org/post/navigating-basic-needs-oregon-s-universities-and-colleges-0" target="_blank" role="button">View the KLCC Article</a> 
+  
+</p>
