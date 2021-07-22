@@ -1,6 +1,6 @@
 ---
 name: Basic Needs Navigator Bill
-tools: [advocacy]
+tools: [advocacy, policy]
 image: https://mediad.publicbroadcasting.net/p/klcc/files/styles/x_large/public/202105/TheresaDray_IbanezFinal__0.JPG
 description: Having experienced food insecurity, I worked hard in understanding and advocating for the bill in the 2021 session.
 external_url: 
