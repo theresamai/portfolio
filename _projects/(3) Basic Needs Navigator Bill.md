@@ -1,7 +1,7 @@
 ---
 name: Basic Needs Navigator Bill
 tools: [advocacy]
-image: https://i.imgur.com/CivCKuI.png
+image: https://mediad.publicbroadcasting.net/p/klcc/files/styles/x_large/public/202105/TheresaDray_IbanezFinal__0.JPG
 description: Having experienced food insecurity, I worked hard in understanding and advocating for the bill in the 2021 session.
 external_url: 
 ---
@@ -10,7 +10,7 @@ external_url:
 
 ## Policy Memo
 
-![Screenshot of the policy memorandum](https://i.imgur.com/ibjDdD6.png)
+![fruits](https://i.imgur.com/CivCKuI.png)
 
 As part of the University Legislative Scholars Program, I was tasked with developing a policy memorandum for a public official or body. Because of my experience with food insecurity, I decided to focus on the Basic Needs Navigator Bill aka HB 2835. 
 
@@ -28,7 +28,7 @@ Even with these complications, I was able to improve my policy memo for the Oreg
 
 ## Advocacy
 
-![fruits](https://i.imgur.com/CivCKuI.png)
+![Drawing of Dray Aguirre and Theresa Mai](https://mediad.publicbroadcasting.net/p/klcc/files/styles/x_large/public/202105/TheresaDray_IbanezFinal__0.JPG)
 
 As I worked on my policy memo, I also focused on making HB 2835 a reality. In the beginning of the legislative session, I volunteered at the Oregon Student Association, where I involved my university community in advocacy efforts. I later personally testified at a House Education Committee because I knew the legislature needed to listen to experiences like mine.
 
