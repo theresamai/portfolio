@@ -16,7 +16,7 @@ Yet, because of the pandemic, I am finding lots of time to focus on myself, so
 I am trying to read more books, listen to more podcasts, and watch more movies.
 Currently, I am reading *What You Should Know About Politics ... But Don't*,
 and I am listening to *Up First*, *OPB Politics*, *Freakonomics*, and *538 Politics*.
-In addition to this, I am starting to explore the state of Oregon and get into nature journaling.
+In addition to this, I am starting to explore the state of Oregon and get into nature journaling, which I am absolutely in love with!
 
 ## Professionally
 Currently, I am finishing my internship with Oregon Wild, and then, I will be back in the Oregon State Legislature as the legislative intern under Rep. Ricki Ruiz.
