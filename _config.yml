@@ -2,8 +2,8 @@
 title               : Theresa Mai
 description         : >-
                       Hello! My name is Theresa Mai, and my pronouns are she/her/hers. :wave:
-                      I am a researcher and policy wonk passionate about uplifting social mobility.
-                      For fun, I love to listen to podcasts, play +4's on my friends, and convince my partner to adopt a dog ASAP.
+                      I am a policy major at Oregon State University who is passionate about uplifting communities, especially those historically excluded.
+                      For fun, I love to listen to podcasts, play +4's on my friends, and convince my partner to adopt a dog.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : theresamai/theresamai.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
