@@ -18,11 +18,11 @@ Right off the bat, I wanted Senator Thomsen to be my public official because A) 
 
 Admittedly, the first draft of my memo was rough. The program director Jock Mills provided lots of feedback on my advocacy tone in addition to my confusing explanation on the bill's opposition. Adding onto this, I was unable to get a reply from Senator Thomsen's office due to the busy legislative session, resulting in a last minute change of my public official/body.
 
-Even with these complications, I was able to improve my policy memo for the Oregon Senate Democrats. It was so great that our program director Jock Mills decided to use my memo as an example for future student cohorts. Unfortunately, I was unable to meet with the Oregon Senate Democrats to talk about my memo, since the legislative session was soon coming to an end.
+Even with these complications, I was able to improve my policy memo for the Oregon Senate Democrats, and Jock decided to use my memo as an example for future student cohorts. Unfortunately, I was unable to meet with the Oregon Senate Democrats to talk about my memo, since the legislative session was soon coming to an end. Even so, this was a great experience!
 
 <p class="text-center">
 
-<a class="btn btn-outline-primary" href="https://drive.google.com/file/d/1DCYUYkx6Iu1Gu7lPVxc4v-zu4Xt6GzNm/view?usp=sharing" target="_blank" role="button">View More</a> 
+<a class="btn btn-outline-primary" href="https://drive.google.com/file/d/1DCYUYkx6Iu1Gu7lPVxc4v-zu4Xt6GzNm/view?usp=sharing" target="_blank" role="button">View Policy Memo</a> 
   
 </p>
 
